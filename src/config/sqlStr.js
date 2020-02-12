@@ -1,4 +1,3 @@
-const connStr =
-  "Server=localhost;Database=Dados_Leandro;User Id=sa;Password=constraint;";
+const connStr = process.env.DB_SQL_CONNECTIONSTRING;
 
 export default connStr;
