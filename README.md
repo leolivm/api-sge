@@ -12,7 +12,7 @@
 
 ## :smiley: Api para utilização em conjunto com o SgeMobileApp.
 
-- Usada para pesquisar, liberar, bloquear ou consultar clientes com atraso.
+- Api contruída com Express usada para pesquisar, liberar, bloquear ou consultar clientes com atraso.
 
 ## :cold_sweat: Desafios encontrados:
 
